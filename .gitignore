@@ -1,0 +1,35 @@
+# Django development settings
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+
+# Secret key
+*.secret_key
+
+# Development
+*.sqlite3
+
+# Local environment
+.env
+
+# IDE/Text Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependency directories
+venv/
+env/
+node_modules/
+
+# Compiled Python files
+*.pyc
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
